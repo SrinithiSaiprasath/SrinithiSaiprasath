@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming and Machine Learning
 - 🌱 I’m currently learning Full Stack Developement(MERN)
 - 💞️ I’m looking to collaborate on Data Analysis and Big Data Projects
-- 📫 To reach me mail me at : @scsrinithi@gmail.com Linked-in :srinithisaiprasath
+- 📫 To reach me mail me at :@srinithis.it2022@citchennai.net  Linked-in :srinithisaiprasath
 
 
    <h3>My Areas of Interests...</h3>
