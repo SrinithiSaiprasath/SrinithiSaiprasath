@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at  [MyPortfolio](https://srinithisaiprasath.netlify.app/)
 
-- 💬 Ask me about **Python,PySpark,Azure,Competitive Programmming**
-
 - 📫 How to reach me **scsrinithi@gmail.com**
 
-- ⚡ Fun fact **I just CRTL+C CTRL+V very well**
+- ⚡ Fun fact **I code with shit tons of passion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
