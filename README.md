@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrinithiSaiprasath
 - 👀 I’m interested in Competitive Programming and Machine Learning
-- 🌱 I’m currently learning Web & App Developement
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Data Analysis and Big Data Projects
 - 📫 To reach me mail me at :@srinithis.it2022@citchennai.net  Linked-in :srinithisaiprasath
 
