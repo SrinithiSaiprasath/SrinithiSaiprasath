@@ -3,7 +3,7 @@
 - 🌍 I'm based in Chennai,India
 
 - 🌱 I’m currently learning **DevOps**
-- 
+
 - 👯 I’m looking to collaborate on **Machine Learning & Big Data Projects**
 
 - 👨‍💻 All of my projects are available at  [MyPortfolio](https://srinithisaiprasath.netlify.app/)
