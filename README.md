@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning & Big Data Projects**
 
-- 👨‍💻 All of my projects are available at [https://srinithisaiprasath.netlify.app/](https://srinithisaiprasath.netlify.app/)
+- 👨‍💻 All of my projects are available at  [MyPortfolio](https://srinithisaiprasath.netlify.app/)
 
 - 💬 Ask me about **Python,PySpark,Azure,Competitive Programmming**
 
