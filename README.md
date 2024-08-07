@@ -2,7 +2,7 @@
 
 - 🌍 I'm based in Chennai,India
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **MLOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning & Big Data Projects**
 
