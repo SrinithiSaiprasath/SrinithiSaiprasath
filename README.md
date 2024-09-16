@@ -17,7 +17,6 @@
 <a href="https://codepen.io/srinithisaiprasath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="srinithisaiprasath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srinithisaiprasath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinithisaiprasath" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srinithi_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srinithi_1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_srinithi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_srinithi_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_srinithi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_srinithi_1" height="30" width="40" /></a>
 </p>
 
