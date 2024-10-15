@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinithi Saiprasath </h1>
 <h3 align="center">I am a Data Science and ML enthusiast. I am passionate about data & AI's power to improve people's lives.</h3>
+
+
 - 🌍 I'm based in Chennai,India
 
 - 🌱 I’m currently learning **MLOps**
