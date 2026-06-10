@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning & Big Data Projects**
 
-- 👨‍💻 All of my projects are available at  [MyPortfolio](https://srinithisaiprasath.netlify.app/)
-
 - 📫 How to reach me **scsrinithi@gmail.com**
 
 - ⚡ Fun fact **I code with shit tons of passion**
